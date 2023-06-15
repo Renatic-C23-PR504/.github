@@ -4,12 +4,15 @@
   ![Renatic](https://raw.githubusercontent.com/Renatic-C23-PR504/.github/main/profile/renatic.png)
   
   # Renatic (Retina Diabetic Analytic)
+  Renatic C23-PR504 Bangkit 2023 Capstone Team.
 
   <img src="https://komarev.com/ghpvc/?username=Renatic-C23-PR504&style=for-the-badge&color=blue" alt=""/>
 
+  
+
 </div>
 
-Renatic C23-PR504 Bangkit 2023 Capstone Team.
+
 
 ## Background
 Indonesia is one of the countries with the highest prevalence of diabetes in the world. According to the International Diabetes Federation, approximately 10 million people in Indonesia are living with diabetes, and this number is expected to increase in the coming years. Early detection and management of diabetes are crucial for reducing the risk of complications such as heart disease, stroke, and kidney failure. However, many people in Indonesia may not have access to regular health check-ups or may not be aware of their risk of developing diabetes. An application to detect diabetes in Indonesia could help bridge this problem by providing a convenient and accessible way for people to assess their risk of diabetes and take preventive steps. This application is targeted at health centers (Puskesmas) located in small villages. With this application, it is hoped that diabetics can be treated quickly and can reduce administration by giving recommendations so that patients could be referred to the central hospital soon.
