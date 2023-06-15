@@ -5,6 +5,8 @@
   
   # Renatic (Retina Diabetic Analytic)
 
+  <img src="https://komarev.com/ghpvc/?username=Renatic-C23-PR504&style=for-the-badge&color=blue" alt=""/>
+
 </div>
 
 Renatic C23-PR504 Bangkit 2023 Capstone Team.
