@@ -40,10 +40,12 @@ Renatic (Retina Diabetic Analytic) is a mobile app that can detect diabetes usin
 Related stuff about Machine Learning can be viewed on the [ML repository](https://github.com/Renatic-C23-PR504/machine-learning)
 
 ### Mobile Development
-> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="kotlin"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin"  height="40"/> </a> 
+> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" title="kotlin"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin"  height="40"/> </a> 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer" title="android studio"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio"  height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="figma"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"  height="40"/> </a> 
-<a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer" title="retrofit"> <img src="https://square.github.io/retrofit/static/icon-square.png" alt="retrofit"  height="40"/> </a> 
+<a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer" title="retrofit"> <img src="https://square.github.io/retrofit/static/icon-square.png" alt="retrofit"  height="40"/> </a>
+<a href="https://developer.android.com/jetpack" target="_blank" rel="noreferrer" title="android jetpack"> <img src="https://developer.android.com/static/images/hero-assets/android-jetpack.svg" alt="android jetpack"  height="40"/> </a>
+<a href="https://bumptech.github.io/glide/" target="_blank" rel="noreferrer" title="glide"> <img src="https://raw.githubusercontent.com/bumptech/glide/master/static/glide_circle_logo.png" alt="glide"  height="40"/> </a>
 
 Related stuff about Mobile Development can be viewed on the [MD repository](https://github.com/Renatic-C23-PR504/application)
 
@@ -52,7 +54,14 @@ Related stuff about Mobile Development can be viewed on the [MD repository](http
 <a href="https://cloud.google.com/" rel="noreferrer" title="google cloud platform"> <img src="https://camo.githubusercontent.com/eb5099c27bd3e3fd1ac31180029132d4a8531fcd48b6437fdd1be9187e88a761/68747470733a2f2f69646f6c73746172617374726f6e6f6d65722e636f6d2f696d616765732f636c6f75645f706c6174666f726d2e706e67" alt="google cloud platform" height="40" data-canonical-src="https://idolstarastronomer.com/images/cloud_platform.png"> </a>
 <a href="https://cloud.google.com/" rel="noreferrer" title="cloud storage"> <img src="https://camo.githubusercontent.com/ec5fc13d46cacb9307107407b318cabc8e57382241c9f8cfcafd853c51a957d1/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d6c645879775f5f336f386b2f586b547137796e656b36492f41414141414141415476512f424d4c4541774765665038744139596b7056526c66686a38713031716344577351434c63424741735948512f73313630302f6763702d6275636b65742e706e67" alt="cloud storage" height="40" data-canonical-src="https://1.bp.blogspot.com/-ldXyw__3o8k/XkTq7ynek6I/AAAAAAAATvQ/BMLEAwGefP8tA9YkpVRlfhj8q01qcDWsQCLcBGAsYHQ/s1600/gcp-bucket.png"> </a>
 <a href="https://cloud.google.com/" rel="noreferrer" title="cloud run"> <img src="https://repository-images.githubusercontent.com/189295422/f294aa00-838c-11e9-8e27-a1fdc651371f" alt="cloud run" height="40"> </a>
+<a href="https://cloud.google.com/appengine" target="_blank" rel="noreferrer" title="app engine"> <img src="https://raw.githubusercontent.com/Renatic-C23-PR504/.github/main/profile/appengine.png" alt="app engine"  height="40"/> </a>
+<a href="https://cloud.google.com/monitoring" target="_blank" rel="noreferrer" title="cloud monitoring"> <img src="https://www.gstatic.com/devrel-devsite/prod/vd261db5395fbcde659314ae58be50b2e56876271e1a672f069cc1e37ad6c3a79/images/icons/cloud-monitoring.svg" alt="cloud monitoring"  height="40"/> </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer" title="node js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node js"  height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="postman"> <img src="https://raw.githubusercontent.com/Renatic-C23-PR504/.github/main/profile/postman-icon.png" alt="postman"  height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="mysql"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="visual studio code"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vscode"  height="40"/> </a> 
+
+
 
 Related stuff about Cloud Computing can be viewed on the [CC repository](https://github.com/Renatic-C23-PR504/backend)
 
