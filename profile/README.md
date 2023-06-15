@@ -1,6 +1,8 @@
 
 <div align="center">
   
+  ![Renatic](https://raw.githubusercontent.com/Renatic-C23-PR504/.github/main/profile/renatic.png)
+  
   # Renatic (Retina Diabetic Analytic)
 
 </div>
