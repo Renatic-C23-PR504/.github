@@ -59,15 +59,8 @@ Related stuff about Mobile Development can be viewed on the [MD repository](http
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="mysql"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="visual studio code"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vscode"  height="40"/> </a> 
 
-
-
 Related stuff about Cloud Computing can be viewed on the [CC repository](https://github.com/Renatic-C23-PR504/backend)
 
-## For whom?
-This application is intended for doctors or medical officers to accelerate the process of detecting diabetes retinopathy.
-
-## How does it work?
-(to be added by the team)
   
 ## C23-PR504 Bangkit 2023 Team Members
 | Members                                  | Path               | Github                                                                                                                                           | LinkedIn                                                                                                                                                                         |
